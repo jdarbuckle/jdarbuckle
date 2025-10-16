@@ -1,5 +1,5 @@
 # James Arbuckle
-[LinkedIN]
+[LinkedIn](https://www.linkedin.com/in/cyber-jda/) | [CyberJDA.com](https://cyberjda.com/) | [Placeholder](link)
 
 ## About Me
 Thank you for visiting my page, My name is James and this is my computer/tech/networking/cyber/ext hub. I'm a a Navy Vet working currently on pivoting from my military career to working with Computer Networking and Security. I belive a solid foundation in networking is key to ensuring the security and availablity of our information systems.
