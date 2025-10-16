@@ -8,6 +8,7 @@ Thank you for visiting my page, my name is James and this is my computer/tech/ne
 
 - This repository for my projects. Consolidateing all my notes and what not on here.
 - proxmox homelab setup/writeup. currently have a lab enviornment, but need to complete the setup and documentation.
+- [Deploying WindowsOS on PROXMOX](https://github.com/jdarbuckle/Deploying_Windows_In_Proxmox)
 
 ## Pojects:
 
