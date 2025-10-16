@@ -1,16 +1,31 @@
-## Hi there 👋
+# James Arbuckle
+[LinkedIN]
+
+## About Me
+Thank you for visiting my page, My name is James and this is my computer/tech/networking/cyber/ext hub. I'm a a Navy Vet working currently on pivoting from my military career to working with Computer Networking and Security. I belive a solid foundation in networking is key to ensuring the security and availablity of our information systems.
+
+## Current Projects:
+
+- This repository for my projects. Consolidateing all my notes and what not on here.
+- proxmox homelab setup/writeup. currently have a lab enviornment, but need to complete the setup and documentation
+
+## Pojects:
+
+- [Cleaning up Root for Cyber Competition](https://github.com/jdarbuckle/NoRoot)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **jdarbuckle/jdarbuckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
