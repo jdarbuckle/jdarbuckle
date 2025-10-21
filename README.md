@@ -8,12 +8,15 @@ Thank you for visiting my page, my name is James and this is my computer/tech/ne
 
 - This repository for my projects - Consolidateing all my notes on here.
 - PROXMOX homelab setup/writeup. Currently have a lab enviornment, but need to complete the setup and documentation.
-- [Deploying WindowsOS on PROXMOX - InProgress](https://github.com/jdarbuckle/Deploying_Windows_In_Proxmox)
+
+- [Uploading ISO Files into PROMOX](placeholder)
+- [Seting up VirtViewer and SPICE in PROXMOX](placeholder)
 
 ## Pojects:
 
 - [Cleaning up Shell Access for Cyber Competition](https://github.com/jdarbuckle/NoRoot)
 - [PROXMOX: Changing VM names Postcreation](https://github.com/jdarbuckle/PROXMOX_Change_VM_Names)
+- [Deploying WindowsOS on PROXMOX](https://github.com/jdarbuckle/Deploying_Windows_In_Proxmox)
 
 
 
