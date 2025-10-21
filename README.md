@@ -9,8 +9,8 @@ Thank you for visiting my page, my name is James and this is my computer/tech/ne
 - This repository for my projects - Consolidateing all my notes on here.
 - PROXMOX homelab setup/writeup. Currently have a lab enviornment, but need to complete the setup and documentation.
 
-- [Uploading ISO Files into PROMOX](placeholder)
-- [Seting up VirtViewer and SPICE in PROXMOX](placeholder)
+- [inprogress - Uploading ISO Files into PROMOX](placeholder)
+- [inprogress - Seting up VirtViewer and SPICE in PROXMOX](placeholder)
 
 ## Pojects:
 
